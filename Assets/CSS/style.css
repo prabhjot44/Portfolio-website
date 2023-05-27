@@ -1133,6 +1133,10 @@ p.last__parag {
     display: block;
   }
 
+  #btnControl:checked ~ ul.mobileList {
+    display: block;
+  }
+
   .navbar__socialItem,
   .navbar__listItem {
     display: none;
