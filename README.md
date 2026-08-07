@@ -6,11 +6,11 @@ You can find the Original Template [here](https://themeforest.net/item/simone-pe
 
 ## Website link 
 
-[Simone.io](https://raniamhelmy.github.io/SimonePersonalPortfolio/)
+
 
 ## ScreenShot
 
-![Simone](https://user-images.githubusercontent.com/93358372/210290827-a4c3b953-1761-4ac1-8caa-a672f21a073e.jpg)
+
 
 
 ### Technologies used to build this project
